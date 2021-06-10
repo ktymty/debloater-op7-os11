@@ -3,7 +3,7 @@
 **DISCLAIMER**: Use this script at your own risk. I am not responsible for anything that could happen to your phone. 
 
 ## Summary
-I try to maintain a universal tool which removes bloatwares on any Android phones by using ADB.
+A universal tool which removes bloatwares on any Android phones by using ADB.
 
 The main goal is to improve battery performance and privacy by removing unnecessary and obscure system apps. This can also contribute to improve security by reducing [the attack surface](https://en.wikipedia.org/wiki/Attack_surface). The script has a menu that lets you choose what debloat list you want to use. I strongly encourage you to take a look at the lists because the default selection may not suit you. All packages are as well documented as possible in order to provide a better understanding of what you can delete or not.
 
@@ -33,24 +33,7 @@ NB : The non-root method is NOT a real uninstallation for system apps (see the [
 * [X] Qualcomm / Mediatek / Miscellaneous
 
 ## Manufacturers debloat lists
-* [ ] Archos
-* [X] Asus
-* [ ] Blackberry
-* [ ] Gionee
-* [X] LG
-* [X] Google
-* [ ] HTC
-* [X] Huawei
-* [X] Motorola
-* [X] Nokia
 * [X] OnePlus
-* [X] Oppo  
-* [X] Samsung
-* [X] Sony
-* [ ] TCL
-* [ ] Wiko
-* [X] Xiaomi
-* [ ] ZTE
 
 ## Mobile carriers debloat lists
 |   Country       | Carriers                          |
@@ -61,7 +44,6 @@ NB : The non-root method is NOT a real uninstallation for system apps (see the [
 
 
 ## How to use it 
-- **Read the [FAQ](https://gitlab.com/W1nst0n/universal-android-debloater/-/wikis/FAQ)!**
 - **Do a proper backup of your data! You can never be too careful!**
 - Enable *Developer Options* on your smartphone.
 - Turn on *USB Debugging* from the developper panel.
